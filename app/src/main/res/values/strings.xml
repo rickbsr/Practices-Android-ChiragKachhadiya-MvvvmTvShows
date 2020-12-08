@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM_TV_Shows</string>
+    <string name="activity_main_text_main_header_title_text">TV Shows | Most Popular</string>
+</resources>
