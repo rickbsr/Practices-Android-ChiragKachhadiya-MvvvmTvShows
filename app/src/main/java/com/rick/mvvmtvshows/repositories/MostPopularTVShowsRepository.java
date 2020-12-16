@@ -1,5 +1,7 @@
 package com.rick.mvvmtvshows.repositories;
 
+import android.util.Log;
+
 import androidx.annotation.NonNull;
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
@@ -13,7 +15,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 public class MostPopularTVShowsRepository {
-
+    private static final String TAG = MostPopularTVShowsRepository.class.getSimpleName();
     private final ApiService apiService;
 
     public MostPopularTVShowsRepository() {
@@ -27,11 +29,13 @@ public class MostPopularTVShowsRepository {
         apiService.getMostPopularTVShows(page).enqueue(new Callback<TVShowsResponse>() {
             @Override
             public void onResponse(@NonNull Call<TVShowsResponse> call, @NonNull Response<TVShowsResponse> response) {
+                Log.d(TAG, "onResponse: ");
                 data.setValue(response.body());
             }
 
             @Override
             public void onFailure(@NonNull Call<TVShowsResponse> call, @NonNull Throwable t) {
+                Log.d(TAG, "onFailure: ");
                 data.setValue(null);
             }
         });
