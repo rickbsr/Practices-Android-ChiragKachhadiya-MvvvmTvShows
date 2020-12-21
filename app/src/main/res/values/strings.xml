@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">MVVM_TV_Shows</string>
     <string name="activity_main_text_main_header_title_text">TV Shows | Most Popular</string>
+    <string name="activity_tv_show_details_text_read_more_text">Read More</string>
+    <string name="tv_show_details_read_less">Read Less</string>
+    <string name="tv_show_details_read_more">Read More</string>
+    <string name="activity_tv_details_text_u2022">•</string>
+    <string name="activity_tv_show_details_button_website_text">Website</string>
+    <string name="activity_tv_show_details_button_episodes_text">Episodes</string>
 </resources>
