@@ -7,4 +7,5 @@
     <string name="activity_tv_details_text_u2022">•</string>
     <string name="activity_tv_show_details_button_website_text">Website</string>
     <string name="activity_tv_show_details_button_episodes_text">Episodes</string>
+    <string name="activity_watchlist_text_watch_list_title_text">Watchlist</string>
 </resources>
