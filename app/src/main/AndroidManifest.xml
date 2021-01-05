@@ -15,7 +15,7 @@
         android:theme="@style/Theme.MVVM_TV_Shows"
         android:usesCleartextTraffic="true"
         tools:targetApi="m">
-        <activity android:name=".activities.WatchlistActivity"></activity>
+        <activity android:name=".activities.WatchlistActivity"/>
         <activity android:name=".activities.TVShowDetailsActivity" />
         <activity android:name=".activities.MainActivity">
             <intent-filter>
