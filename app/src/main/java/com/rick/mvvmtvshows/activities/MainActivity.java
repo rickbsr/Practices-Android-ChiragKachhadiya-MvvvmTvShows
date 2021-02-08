@@ -2,6 +2,7 @@ package com.rick.mvvmtvshows.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -54,6 +55,8 @@ public class MainActivity extends AppCompatActivity implements TVShowsListener {
         });
         activityMainBinding.imageWatchList.setOnClickListener(view ->
                 startActivity(new Intent(getApplicationContext(), WatchlistActivity.class)));
+        activityMainBinding.imageSearch.setOnClickListener(v ->
+                startActivity(new Intent(getApplicationContext(), SearchActivity.class)));
         getMostPopularTVShows();
     }
 
