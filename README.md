@@ -1,16 +1,17 @@
-# Practices_Android_ChiragKachhadiya_MvvvmTvShows
-Practices：ChiragKachhadiya_MvvmTvShows
+# ChiragKachhadiya MvvvmTvShows
+Practices Series：Android
 
-***
-#### 項目 ####
-
-ChiragKachhadiya MvvmTvShows
 ---
 
-***
-#### 簡介 ####
+![](pics/practices-videomeeting.png)
+
+---
+
+### 說明 ###
 
 本專案為「[Chirag Kachhadiya](https://www.youtube.com/channel/UCmL5TAblHHgh1xhabmPjYgw)」分享於「Youtube」平台。
+
+###### 參考連結： ######
 
 - [Android MVVM | TV Shows App | Tutorial #1 | Project Setup, APIs Intro & Primary Layout Design](https://www.youtube.com/watch?v=-Ue9Ayv4_kY&list=PLam6bY5NszYOUDKwe-6tVhb3zVevwbHiK)
 - [Android MVVM | TV Shows App | Tutorial #2 | Setup Retrofit & TV Shows API Integration](https://www.youtube.com/watch?v=kIWAJxY4xss&list=PLam6bY5NszYOUDKwe-6tVhb3zVevwbHiK&index=2)
@@ -25,17 +26,12 @@ ChiragKachhadiya MvvmTvShows
 - [Android MVVM | TV Shows App | Tutorial #11 | The Watchlist - Room Persistence Library | Part 2/2](https://www.youtube.com/watch?v=EfAcki-5ti0&list=PLam6bY5NszYOUDKwe-6tVhb3zVevwbHiK&index=11)
 - [Android MVVM | TV Shows App | Tutorial #12 | Search TV Show API Integration](https://www.youtube.com/watch?v=ZPN4nn_xOpM&list=PLam6bY5NszYOUDKwe-6tVhb3zVevwbHiK&index=12)
 
-<br>
-
-```
-Practiecs! Without unceasing practice nothing can be done.
-```
-
-<br>
+---
 
 #### 預覽圖 ####
 
-<img src="./previews/mvvmtvshows.gif" alt="mvvmtvshows" title="preview" width="22%" align="left" />
-<img src="./previews/overview.png" alt="mvvmtvshows" title="preview" width="22%" align="left" />
-<img src="./previews/details.png" alt="mvvmtvshows" title="preview" width="22%" align="left" />
-<img src="./previews/favourites.png" alt="mvvmtvshows" title="preview" width="22%" align="left" />
+
+|        動態預覽圖         |        總覽清單        |       詳細資訊        |         我的最愛         |
+|:-------------------------:|:----------------------:|:---------------------:|:------------------------:|
+| ![](pics/mvvmtvshows.gif) | ![](pics/overview.png) | ![](pics/details.png) | ![](pics/favourites.png) |
+
