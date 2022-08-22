@@ -30,8 +30,11 @@ Practices Series：Android
 
 #### 預覽圖 ####
 
-
 |        動態預覽圖         |        總覽清單        |       詳細資訊        |         我的最愛         |
 |:-------------------------:|:----------------------:|:---------------------:|:------------------------:|
 | ![](pics/mvvmtvshows.gif) | ![](pics/overview.png) | ![](pics/details.png) | ![](pics/favourites.png) |
+
+---
+
+###### tags: `Android` `Java`
 
