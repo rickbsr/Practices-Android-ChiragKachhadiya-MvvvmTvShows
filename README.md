@@ -3,7 +3,7 @@ Practices Series：Android
 
 ---
 
-![](pics/practices-videomeeting.png)
+![](pics/practices-mvvmtvshow.png)
 
 ---
 
