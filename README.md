@@ -1,5 +1,5 @@
 # ChiragKachhadiya MvvvmTvShows
-實戰項目（Android）：ChiragKachhadiya MvvvmTvShows
+實戰系列（Android）：ChiragKachhadiya MvvvmTvShows
 
 ---
 
